@@ -1,4 +1,4 @@
-module Main where
+module Day1.Main where
 
 import Data.List (sortOn)
 import Data.List.Split (splitWhen)
